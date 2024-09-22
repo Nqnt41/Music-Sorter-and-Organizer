@@ -1,0 +1,3 @@
+/Users/sarahcoveny/Desktop/Music_Sorter/cmake-build-debug/CMakeFiles/Project3.dir
+/Users/sarahcoveny/Desktop/Music_Sorter/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sarahcoveny/Desktop/Music_Sorter/cmake-build-debug/CMakeFiles/rebuild_cache.dir
